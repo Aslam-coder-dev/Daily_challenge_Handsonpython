@@ -1,4 +1,4 @@
-#HANDS ON PYTHON
+# HANDS ON PYTHON
 
 This repository contains my daily submissions for the 60 Days Code2Xplore Python Challenge.
 Each challenge strengthens my logical thinking, problem-solving ability, and core Python programming skills.
