@@ -10,3 +10,5 @@ Each challenge strengthens my logical thinking, problem-solving ability, and cor
 | Day 2 | Smart ID & Credential Validator | Validates student ID, email, password, and referral code using string slicing and condition-based validation.                                |
 | Day 3 | Student Performance Analyzer    | Classifies student marks into performance categories and generates a summary using lists and conditional statements.                         |
 | Day 4 | Smart List Filter & Rebuilder   | Separates numbers and strings from mixed input, applies name authentication, and personalizes list modification using register number logic. |
+| Day 5 | Smart Transport Load Balancing System | Classifies package weights into loading categories and applies a Personalized Loading Impact (PLI) rule based on name length using lists and conditional logic. |
+
