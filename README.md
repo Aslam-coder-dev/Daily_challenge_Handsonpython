@@ -11,4 +11,5 @@ Each challenge strengthens my logical thinking, problem-solving ability, and cor
 | Day 3 | Student Performance Analyzer    | Classifies student marks into performance categories and generates a summary using lists and conditional statements.                         |
 | Day 4 | Smart List Filter & Rebuilder   | Separates numbers and strings from mixed input, applies name authentication, and personalizes list modification using register number logic. |
 | Day 5 | Smart Transport Load Balancing System | Classifies package weights into loading categories and applies a Personalized Loading Impact (PLI) rule based on name length using lists and conditional logic. |
+| Day 6 | Smart Playlist Intelligence System | A Python program that analyzes song durations, validates inputs, categorizes the playlist, and provides suitable recommendations. Username-based access control with a cricket fan theme and music-lover validation before playlist analysis |
 
